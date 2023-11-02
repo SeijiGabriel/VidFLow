@@ -3,7 +3,7 @@
 ## Descrição
 VidFlow é um projeto desenvolvido durante o curso da escola Alura. Trata-se de uma aplicação web para visualização de vídeos de várias categorias. Você pode assistir a vídeos, pesquisar conteúdo e filtrar vídeos por categoria.
 
-![Screenshot](https://i.imgur.com/QY67Np1.png)
+![Screenshot](https://i.imgur.com/QY67Np1.png#vitrinedev)
 
 ## Funcionalidades
 - Exibição de vídeos de várias categorias.
